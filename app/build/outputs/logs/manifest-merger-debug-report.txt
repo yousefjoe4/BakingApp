@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\907600576e714dee56e4663c371e02dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\07510024f9617115f4844ed43112b215\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b98cf853c7aec8c5c1bc8d85037e7762\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\28f25e281f1e33081aaf4fadfa3fc241\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.2.0.aar\4f7cf2f407c33c878799efb035e38a2e\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b22b14dad314ec056eae54372bb00e6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\f9fc665caa7d9de8d3464cb40aa84d88\AndroidManifest.xml:2:1-7:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\565182c07b0b32eb533670ecdbe02b1e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ec656e21078cf4433be4cd2a9ba6e48b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f670c55ab05f4a27adef04671f4a25f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\43522c86f265aa8674c32ecf032c4016\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\67b7db366246ede4da9578d114095d58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\912af39ee653bc73605d274fa607d9ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b49f7bb53264a702571f8547e6fdce96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f1749afbd8fa2f04738386df2f04e196\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d86a4e4779546c18ea869f362cc8e4ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\98b040ee7eab93019f869cdaf87d2ade\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4df5b08e72167c19a51b60bf4eb4ff91\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e0cdf81851b47f8c2ef8356da42cea4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3429cfa4a7e82af10f85057e7f0e5adf\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:8:5-47:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\07510024f9617115f4844ed43112b215\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\07510024f9617115f4844ed43112b215\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#yousef.example.com.baking.activities.MainActivity
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:15:19-83
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:19:27-74
+activity#yousef.example.com.baking.activities.RecipeActivity
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:22:9-88
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:22:19-85
+activity#yousef.example.com.baking.activities.StepActivity
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:23:9-25:96
+	android:parentActivityName
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:25:13-93
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:24:13-77
+activity#yousef.example.com.baking.activities.IngredientActivity
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:26:9-27:95
+	android:parentActivityName
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:27:13-93
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:26:19-89
+receiver#yousef.example.com.baking.widget.BakingAppWidget
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:29:19-82
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:30:13-32:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:31:17-84
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:31:25-81
+meta-data#android.appwidget.provider
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:34:13-36:66
+	android:resource
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:36:17-63
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:35:17-58
+activity#yousef.example.com.baking.widget.BakingAppWidgetConfigureActivity
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:39:9-43:20
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:39:19-99
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:40:13-42:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:41:17-87
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:41:25-84
+service#yousef.example.com.baking.adapters.ListViewService
+ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:45:9-46:71
+	android:permission
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:46:13-69
+	android:name
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml:45:18-83
+uses-sdk
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\907600576e714dee56e4663c371e02dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\907600576e714dee56e4663c371e02dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\07510024f9617115f4844ed43112b215\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\07510024f9617115f4844ed43112b215\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b98cf853c7aec8c5c1bc8d85037e7762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b98cf853c7aec8c5c1bc8d85037e7762\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\28f25e281f1e33081aaf4fadfa3fc241\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\28f25e281f1e33081aaf4fadfa3fc241\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.2.0.aar\4f7cf2f407c33c878799efb035e38a2e\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.2.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\exoplayer-r2.2.0.aar\4f7cf2f407c33c878799efb035e38a2e\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b22b14dad314ec056eae54372bb00e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\b22b14dad314ec056eae54372bb00e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\f9fc665caa7d9de8d3464cb40aa84d88\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\butterknife-8.8.1.aar\f9fc665caa7d9de8d3464cb40aa84d88\AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\565182c07b0b32eb533670ecdbe02b1e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.2] C:\Users\User\.gradle\caches\transforms-1\files-1.1\espresso-idling-resource-3.0.2.aar\565182c07b0b32eb533670ecdbe02b1e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ec656e21078cf4433be4cd2a9ba6e48b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ec656e21078cf4433be4cd2a9ba6e48b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f670c55ab05f4a27adef04671f4a25f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\f670c55ab05f4a27adef04671f4a25f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\43522c86f265aa8674c32ecf032c4016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\43522c86f265aa8674c32ecf032c4016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\67b7db366246ede4da9578d114095d58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\67b7db366246ede4da9578d114095d58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\912af39ee653bc73605d274fa607d9ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\912af39ee653bc73605d274fa607d9ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b49f7bb53264a702571f8547e6fdce96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\b49f7bb53264a702571f8547e6fdce96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f1749afbd8fa2f04738386df2f04e196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\f1749afbd8fa2f04738386df2f04e196\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d86a4e4779546c18ea869f362cc8e4ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\User\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d86a4e4779546c18ea869f362cc8e4ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\98b040ee7eab93019f869cdaf87d2ade\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\98b040ee7eab93019f869cdaf87d2ade\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4df5b08e72167c19a51b60bf4eb4ff91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4df5b08e72167c19a51b60bf4eb4ff91\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e0cdf81851b47f8c2ef8356da42cea4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\4e0cdf81851b47f8c2ef8356da42cea4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3429cfa4a7e82af10f85057e7f0e5adf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\User\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\3429cfa4a7e82af10f85057e7f0e5adf\AndroidManifest.xml:20:5-44
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Users\youse\AndroidStudioProjects\BakingApp-master\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\User\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\878e1f09a756b7732c3e3f77c93a95b6\AndroidManifest.xml:9:13-64
