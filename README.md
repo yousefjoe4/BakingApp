@@ -1,6 +1,8 @@
 # BakingApp
 
-App for Baking:
-Showing recipes, each recipe has it's details about it's ingredients, and steps to bake the recipe, each step has a video and a description about that recipe, with a Widget on the home screen having the Ingredients for a recipe chosen by the User
+•	Built an app that shows up recipes to users, each recipe includes it’s ingredients and steps and each step includes a description and a short video.
+•	The app allows users to see 
+•	The app provides a home screen widget, which allow users to select a recipe and see it’s ingredients from the home screen.
+•	Used Java, Android SDK, API, JSON, Android Studio, XML, OOP, ExoPlayer, Espresso, Services, Broadcast receiver.
 
  ![BakingApp](https://media.giphy.com/media/2rAHEcDRXFxcHbnXCG/giphy.gif) 
