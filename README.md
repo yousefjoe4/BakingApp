@@ -1,4 +1,5 @@
 # BakingApp
+(Part of Android Developer Nanodegree)
 
 - An app that shows up recipes to users, each recipe includes it’s ingredients and steps and each step includes a description and a short video.
 
