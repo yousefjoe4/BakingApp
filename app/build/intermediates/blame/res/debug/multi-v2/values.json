@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "7,1,6,8,5,2",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "292,16,241,342,171,60",
-                        "endColumns": "49,43,50,47,69,51",
-                        "endOffsets": "337,55,287,385,236,107"
-                    },
-                    "to": {
-                        "startLines": "678,679,680,681,689,690",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "57580,57630,57674,57725,58255,58325",
-                        "endColumns": "49,43,50,47,69,51",
-                        "endOffsets": "57625,57669,57720,57768,58320,58372"
-                    }
-                },
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-27.1.1.aar\\28f25e281f1e33081aaf4fadfa3fc241\\res\\values\\values.xml",
                     "from": {
@@ -40,22 +23,54 @@
                     }
                 },
                 {
-                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "3,10",
-                        "startColumns": "4,4",
-                        "startOffsets": "54,374",
-                        "endLines": "9,14",
-                        "endColumns": "12,12",
-                        "endOffsets": "369,622"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
                     },
                     "to": {
-                        "startLines": "698,705",
-                        "startColumns": "4,4",
-                        "startOffsets": "58943,59263",
-                        "endLines": "704,709",
-                        "endColumns": "12,12",
-                        "endOffsets": "59258,59511"
+                        "startLines": "175,176,177",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "8738,8784,8831",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "8779,8826,8877"
+                    }
+                },
+                {
+                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "209",
+                        "endColumns": "43",
+                        "endOffsets": "248"
+                    },
+                    "to": {
+                        "startLines": "610",
+                        "startColumns": "4",
+                        "startOffsets": "53630",
+                        "endColumns": "43",
+                        "endOffsets": "53669"
+                    }
+                },
+                {
+                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\src\\main\\res\\values\\boolean.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "38",
+                        "endOffsets": "89"
+                    },
+                    "to": {
+                        "startLines": "152",
+                        "startColumns": "4",
+                        "startOffsets": "7042",
+                        "endColumns": "38",
+                        "endOffsets": "7076"
                     }
                 },
                 {
@@ -114,20 +129,22 @@
                     }
                 },
                 {
-                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "7",
-                        "startColumns": "4",
-                        "startOffsets": "209",
-                        "endColumns": "43",
-                        "endOffsets": "248"
+                        "startLines": "3,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "54,374",
+                        "endLines": "9,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,622"
                     },
                     "to": {
-                        "startLines": "610",
-                        "startColumns": "4",
-                        "startOffsets": "53630",
-                        "endColumns": "43",
-                        "endOffsets": "53669"
+                        "startLines": "698,705",
+                        "startColumns": "4,4",
+                        "startOffsets": "58943,59263",
+                        "endLines": "704,709",
+                        "endColumns": "12,12",
+                        "endOffsets": "59258,59511"
                     }
                 },
                 {
@@ -188,20 +205,20 @@
                     }
                 },
                 {
-                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\src\\main\\res\\values\\boolean.xml",
+                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "38",
-                        "endOffsets": "89"
+                        "startLines": "7,1,6,8,5,2",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "292,16,241,342,171,60",
+                        "endColumns": "49,43,50,47,69,51",
+                        "endOffsets": "337,55,287,385,236,107"
                     },
                     "to": {
-                        "startLines": "152",
-                        "startColumns": "4",
-                        "startOffsets": "7042",
-                        "endColumns": "38",
-                        "endOffsets": "7076"
+                        "startLines": "678,679,680,681,689,690",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57580,57630,57674,57725,58255,58325",
+                        "endColumns": "49,43,50,47,69,51",
+                        "endOffsets": "57625,57669,57720,57768,58320,58372"
                     }
                 },
                 {
@@ -219,23 +236,6 @@
                         "startOffsets": "10301,148511,148687,148809,149071,149266",
                         "endColumns": "88,65,121,60,65,66",
                         "endOffsets": "10385,148572,148804,148865,149132,149328"
-                    }
-                },
-                {
-                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "175,176,177",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "8738,8784,8831",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "8779,8826,8877"
                     }
                 }
             ]

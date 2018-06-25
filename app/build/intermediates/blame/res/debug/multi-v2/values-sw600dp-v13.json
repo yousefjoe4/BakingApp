@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\src\\main\\res\\values-sw600dp\\boolean.xml",
+                    "source": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\src\\main\\res\\values-sw600dp\\boolean.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

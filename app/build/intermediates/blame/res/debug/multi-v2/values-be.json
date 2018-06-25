@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
+            "outputFile": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-be\\values-be.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d86a4e4779546c18ea869f362cc8e4ca\\res\\values-be\\values-be.xml",

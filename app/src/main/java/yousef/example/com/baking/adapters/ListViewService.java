@@ -49,20 +49,7 @@ public class ListViewService extends RemoteViewsService {
 
         @Override
         public void onDataSetChanged() {
-            new AsyncTask<Void, Void, Void>() {
-                @Override
-                protected Void doInBackground(Void... voids) {
-                    ingredients = JsonUtils.getIngredientsById(ingredientsID);
-                    Log.e("ListView", "In onDataSetChanged size = " + ingredients.size());
-
-                    return null;
-                }
-
-                @Override
-                protected void onPostExecute(Void aVoid) {
-                    AppWidgetManager.getInstance(context).notifyAppWidgetViewDataChanged(appWidgetId,R.id.appwidget_listView);
-                }
-            }.execute();
+            ingredients = JsonUtils.getIngredientsById(ingredientsID);
         }
 
         @Override

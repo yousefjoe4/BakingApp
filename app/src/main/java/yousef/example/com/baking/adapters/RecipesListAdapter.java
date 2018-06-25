@@ -5,6 +5,7 @@ package yousef.example.com.baking.adapters;
         import yousef.example.com.baking.objects.Recipe;
         import android.support.annotation.NonNull;
         import android.support.v7.widget.RecyclerView;
+        import android.util.Log;
         import android.view.LayoutInflater;
         import android.view.View;
         import android.view.ViewGroup;
@@ -59,6 +60,7 @@ public class RecipesListAdapter extends RecyclerView.Adapter<RecipesListAdapter.
 
     @Override
     public int getItemCount() {
+        Log.e("RecipeAdapter", "in getItemCount");
         if(recipesList == null){
             return 0;
         }

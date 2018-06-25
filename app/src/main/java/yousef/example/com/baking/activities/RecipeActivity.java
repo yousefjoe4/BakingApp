@@ -133,6 +133,8 @@ public class RecipeActivity extends AppCompatActivity implements IngredientsStep
     @Override
     protected void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
-        outState.putParcelable(BUNDLE_RECYCLER_POSITION, recyclerView.getLayoutManager().onSaveInstanceState());
+        if(recyclerView != null){
+            outState.putParcelable(BUNDLE_RECYCLER_POSITION, recyclerView.getLayoutManager().onSaveInstanceState());
+        }
     }
 }

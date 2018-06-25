@@ -61,10 +61,8 @@ public class JsonUtils {
 
             Scanner scanner = new Scanner(inputStream);
             scanner.useDelimiter("\\A");
-            Log.e("JsonUtils", " I'm in getDataFrom link ");
 
             if (scanner.hasNext()) {
-                Log.e("JsonUtils", " I'm in getDataFrom has next ");
 
                 return scanner.next();
             }
@@ -152,7 +150,6 @@ public class JsonUtils {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        Log.e("JsonUtils", "Ingredient size = " + ingredientList.size());
         return ingredientList;
     }
 

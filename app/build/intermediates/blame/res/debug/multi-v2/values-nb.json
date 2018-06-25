@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+            "outputFile": "E:\\Users\\youse\\AndroidStudioProjects\\BakingApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
             "map": [
                 {
                     "source": "C:\\Users\\User\\.gradle\\caches\\transforms-1\\files-1.1\\exoplayer-r2.2.0.aar\\4f7cf2f407c33c878799efb035e38a2e\\res\\values-nb\\values-nb.xml",
