@@ -7,4 +7,4 @@ APK - https://drive.google.com/file/d/16QsqA8dY73gjAskrvsOmxSLjGdVkjE3h/view?usp
 
 - Used Java, Android SDK, API, JSON, Android Studio, XML, OOP, ExoPlayer, Espresso, Services, Broadcast receiver.
 
- ![BakingApp](https://media.giphy.com/media/2rAHEcDRXFxcHbnXCG/giphy.gif) 
+![BakingApp](https://media.giphy.com/media/2rAHEcDRXFxcHbnXCG/giphy.gif) 
